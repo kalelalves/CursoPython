@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "materialize@1.0.0",
+      "destination": "wwwroot/lib/materialize/"
+    },
+    {
+      "provider": "cdnjs"
+      "library": "datepicker@1.0.10"
+      "destination": "wwwroot/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "angular.js@1.8.2",
+      "destination": "wwwroot/"
+      "files": [ "angular-csp.css" ]
+    }
+    
+
+  ]
+}
