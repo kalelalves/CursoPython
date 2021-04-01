@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Y8WLojDp3My1r7zbSN4ygcH15Z5fE3nxNJqicbq+pKQ2IjdLqS/8yfCx2mSlRzAcK7CAcmLkG046ER0RA1FSIg==",
+  "dgSpecHash": "PlHppTKx58rrks/Qv2pcWUyMt1UUKKeAcxgwhIGinw6YgSEkJgFhaSLvV/O3lC4IdG6R+fvUgRZnZ4xgUf+HuA==",
   "success": true,
   "projectFilePath": "C:\\Github\\Curso NetCore\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kalel\\.nuget\\packages\\buildbundlerminifier\\2.8.391\\buildbundlerminifier.2.8.391.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.1.1\\microsoft.aspnetcore.antiforgery.2.1.1.nupkg.sha512",
